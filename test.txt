@@ -1,0 +1,9 @@
+integer1 = 5
+float1 = 45,3
+simvol = A
+istina = True
+integer2 = 45
+float2 = 5
+expression1 = True
+expression2 = True
+result = 5 45,3 A True 45 5 True True
